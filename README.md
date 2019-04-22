@@ -2,6 +2,8 @@
 
 ### 步骤一：git clone git@github.com:Sogrey/VuepressBlogEdit.git
 
+此处使用了SSH，你可能会遇到[git clone Permission Denied (publickey)问题](https://sogrey.github.io/article/git-clone-%E8%A7%A3%E5%86%B3Permission-Denied-publickey-%E9%97%AE%E9%A2%98/)
+
 ### 步骤二：运行 npm install
 
 ### 步骤三：运行 npm run dev
